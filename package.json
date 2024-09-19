@@ -1,0 +1,14 @@
+{
+  "name": "password-generator",
+  "version": "1.0.0",
+  "description": "CLI application to generate passwords based on provided flags",
+  "main": "password-generator.js",
+  "bin": {
+    "password-generator": "./password-generator.js"
+  },
+  "scripts": {
+    "start": "node password-generator.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
