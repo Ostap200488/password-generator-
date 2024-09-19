@@ -21,7 +21,7 @@ The Password Generator CLI is a command-line interface (CLI) application designe
 1. Clone the repository:
 
    ```bash
-   git clone <>
+   git clone <https://github.com/Ostap200488/password-generator-.git>
    ```
 
 2. Navigate to the project directory:
