@@ -9,6 +9,6 @@
   "scripts": {
     "start": "node password-generator.js"
   },
-  "author": "Your Name",
+  "author": "Ostap Demchuk",
   "license": "MIT"
 }
